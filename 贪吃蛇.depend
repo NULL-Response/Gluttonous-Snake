@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1584151232 source:z:\program\c++\实用程序\贪吃蛇\main.cpp
+	"class_definition.h"
+
+1584094583 z:\program\c++\实用程序\贪吃蛇\class_definition.h
+	<vector>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
+1584151361 source:z:\program\c++\实用程序\贪吃蛇\class_methods.cpp
+	"class_definition.h"
+
+1584094583 source:z:\program\c++\实用程序\贪吃蛇\functions.cpp
+	"class_definition.h"
+
